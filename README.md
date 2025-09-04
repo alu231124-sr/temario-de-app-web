@@ -67,7 +67,8 @@ Autenticación y autorización
 Autenticación: Proceso de verificar la identidad de un usuario (ejemplo: iniciar sesión con usuario y contraseña).
 Autorización: Proceso de verificar los permisos de un usuario para acceder o modificar ciertos recursos (ejemplo: solo los administradores pueden borrar usuarios).
 
-# Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional 
+# Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional <img width="314" height="147" alt="image" src="https://github.com/user-attachments/assets/a3a1023b-3b95-465f-b330-9d9cdd37e1a6" />
+
 Copilot said: Aquí tienes una explicación organizada y clara
 Aquí tienes una explicación organizada y clara de los conceptos del Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional:
 
