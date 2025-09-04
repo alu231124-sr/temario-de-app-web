@@ -38,7 +38,8 @@ Branching (ramificación): Permite crear ramas independientes para trabajar en n
 Merge (fusión): Permite combinar los cambios de diferentes ramas.
 Pull Requests: Son solicitudes para que los cambios de una rama sean revisados y fusionados en la rama principal, facilitando la colaboración y revisión del código.
 
-# Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web 
+# Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web <img width="334" height="141" alt="image" src="https://github.com/user-attachments/assets/dcffc61b-8433-4f01-ac5a-98771d152800" />
+
 Maquetación / Wireframe / Mockup
 Maquetación: Es la estructura visual de una página web usando HTML y CSS. Define cómo se organizan los elementos (menús, botones, imágenes, etc.) en la pantalla.
 Wireframe: Esquema simple y sin detalles visuales que muestra la disposición básica de los elementos en una página. Se usa para planificar la estructura antes de diseñar.
